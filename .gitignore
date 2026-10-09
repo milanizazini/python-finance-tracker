@@ -1,0 +1,20 @@
+# Private bank statemts and extracted text
+
+data/
+*.pdf
+
+# Python temporary files
+
+**pycache**/
+*.py[cod]
+
+# Virtual environments
+
+.venv/
+venv/
+
+# Local secrets
+
+.env
+
+.idea/
